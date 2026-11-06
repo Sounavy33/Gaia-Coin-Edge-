@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+python3 experiments/clx_poc.py#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # POC CLX - reducao de bytes com reconstrucao identica, medida e repetivel.
 # Projeto Gaia Coin / Sounavy. Prova de conceito; ver docs/ESTUDO_PRELIMINAR_CLX.md.
