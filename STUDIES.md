@@ -1,7 +1,7 @@
 # Gaia Coin — estudos e testes
 
 Este índice reúne materiais do projeto Gaia Coin e separa a proposta conceitual dos experimentos técnicos. Os materiais são exploratórios e não constituem validação financeira, clínica, jurídica ou ambiental.
-no
+
 ## Materiais
 
 - [Proposta conceitual e ecossistema Gaia Coin](https://github.com/Sounavy33/Gaia-Coin-Edge-/blob/main/README.md)
